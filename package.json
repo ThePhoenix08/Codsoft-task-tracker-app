@@ -1,6 +1,6 @@
 {
   "name": "task-tracker-app",
-  "homepage": "https://ThePhoenix08.github.io/task-tracker-app",
+  "homepage": "https://ThePhoenix08.github.io/CodSoft-task-tracker-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -43,5 +43,6 @@
     "vite": "^5.3.1"
   }
 }
+
 
 
